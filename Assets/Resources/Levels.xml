@@ -1,0 +1,53 @@
+<lvls>
+
+	<lvl>
+		<number>0</number>
+		<imageName>Tiny</imageName>
+		<height>3</height>
+		<weight>3</weight>
+		<needToWin>11</needToWin>
+		<squareSize>1</squareSize>
+		<lvlDescrip>Tiny(3x3)</lvlDescrip>
+	</lvl>
+	
+	<lvl>
+		<number>1</number>
+		<imageName>Classic</imageName>
+		<height>4</height>
+		<weight>4</weight>
+		<needToWin>11</needToWin>
+		<squareSize>1</squareSize>
+		<lvlDescrip>Classic(4x4)</lvlDescrip>
+	</lvl>
+	
+	<lvl>	
+		<number>2</number>
+		<imageName>Big</imageName>
+		<height>5</height>
+		<weight>5</weight>
+		<needToWin>11</needToWin>
+		<squareSize>1</squareSize>
+		<lvlDescrip>Big(5x5)</lvlDescrip>
+	</lvl>
+	
+	<lvl>	
+		<number>3</number>
+		<imageName>Bigger</imageName>
+		<height>6</height>
+		<weight>6</weight>
+		<needToWin>11</needToWin>
+		<squareSize>1</squareSize>
+		<lvlDescrip>Bigger(6x6)</lvlDescrip>
+	</lvl>
+	
+	<lvl>	
+		<number>4</number>
+		<imageName>Huge</imageName>
+		<height>8</height>
+		<weight>8</weight>
+		<needToWin>11</needToWin>
+		<squareSize>1</squareSize>
+		<lvlDescrip>Huge(8x8)</lvlDescrip>
+	</lvl>
+
+</lvls>
